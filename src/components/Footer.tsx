@@ -2,7 +2,7 @@ import { motion, useInView } from "framer-motion";
 import { useRef } from "react";
 import { Instagram, ArrowUp } from "lucide-react";
 import { Link } from "react-router-dom";
-import anriLogo from "@/assets/anri-logo.jpg";
+import anriLogo from "@/assets/logo.png";
 
 export default function Footer() {
   const scrollTop = () => window.scrollTo({ top: 0, behavior: "smooth" });

@@ -1,5 +1,5 @@
 import { motion, AnimatePresence } from "framer-motion";
-import anriLogo from "@/assets/anri-logo.jpg";
+import anriLogo from "@/assets/logo.png";
 
 interface SplashScreenProps {
   isVisible: boolean;

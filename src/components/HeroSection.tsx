@@ -83,7 +83,7 @@ export default function HeroSection() {
             className="mt-16 flex flex-wrap gap-12"
           >
             {[
-              { value: "50+", label: "Projects Delivered" },
+              { value: "100+", label: "Projects Delivered" },
               { value: "98%", label: "Client Satisfaction" },
               { value: "10+", label: "Team Members" },
               { value: "2+", label: "Years Experience" },
