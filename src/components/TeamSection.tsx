@@ -2,13 +2,18 @@ import { motion, useInView } from "framer-motion";
 import { useRef } from "react";
 import { Linkedin, Twitter } from "lucide-react";
 
+// Import team images
+import aathifImage from "../assets/aathif.jpeg";
+import amjadImage from "../assets/amjad.jpeg";
+
+import niyasImage from "../assets/niyas.jpeg";
+import rashadImage from "../assets/rashad.jpeg";
+
 const team = [
-  { name: "Alex Rivera", role: "Lead Developer", image: "/placeholder.svg" },
-  { name: "Sarah Chen", role: "UI/UX Designer", image: "/placeholder.svg" },
-  { name: "Marcus Johnson", role: "Marketing Head", image: "/placeholder.svg" },
-  { name: "Emily Watson", role: "Project Manager", image: "/placeholder.svg" },
-  { name: "David Kim", role: "DevOps Engineer", image: "/placeholder.svg" },
-  { name: "Priya Sharma", role: "QA Lead", image: "/placeholder.svg" },
+  { name: "Aathif", role: "Software Developer", image: aathifImage },
+  { name: "Amjad", role: "Graphic Designer", image: amjadImage },
+  { name: "Niyas", role: "Marketing Manager", image: niyasImage },
+  { name: "Rashad", role: "Project Manager", image: rashadImage },
 ];
 
 export default function TeamSection() {
