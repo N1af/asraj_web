@@ -34,7 +34,7 @@ export default function AboutSection() {
               ANRI Solution is a full-service digital agency committed to transforming businesses through innovative technology solutions. With a team of 50+ experts spanning development, design, marketing, and IT, we deliver results that exceed expectations.
             </p>
             <p className="text-muted-foreground leading-relaxed mb-8">
-              From startups to enterprises, we've partnered with 50+ clients across industries to build digital products that drive real impact. Our approach combines technical expertise with creative thinking to deliver solutions that are both beautiful and powerful.
+              From startups to enterprises, we've partnered with 100+ clients across industries to build digital products that drive real impact. Our approach combines technical expertise with creative thinking to deliver solutions that are both beautiful and powerful.
             </p>
 
             <div className="flex flex-wrap gap-4">

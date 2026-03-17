@@ -7,7 +7,7 @@ const milestones = [
   { year: "2025", title: "Team Expansion", description: "Grew to 20+ professionals across development, design, and marketing." },
   { year: "2025", title: "Global Reach", description: "Expanded operations to serve clients across 15+ countries worldwide." },
   { year: "2026", title: "Industry Recognition", description: "Awarded 'Best Digital Agency' by TechWorld Innovation Awards." },
-  { year: "2026", title: "50+ Projects", description: "Crossed the milestone of 50 successful project deliveries globally." },
+  { year: "2026", title: "100+ Projects", description: "Crossed the milestone of 100 successful project deliveries globally." },
 ];
 
 export default function TimelineSection() {

@@ -8,12 +8,13 @@ import amjadImage from "../assets/amjad.jpeg";
 
 import niyasImage from "../assets/niyas.jpeg";
 import rashadImage from "../assets/rashad.jpeg";
-
+import minhajImage from "../assets/4.jpeg";
 const team = [
   { name: "Aathif", role: "Software Developer", image: aathifImage },
   { name: "Amjad", role: "Graphic Designer", image: amjadImage },
   { name: "Niyas", role: "Marketing Manager", image: niyasImage },
   { name: "Rashad", role: "Project Manager", image: rashadImage },
+  { name: "Minhaj", role: "Digital Marketing", image: minhajImage }
 ];
 
 export default function TeamSection() {
